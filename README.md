@@ -31,3 +31,7 @@ Além disso, com a padronização dos termos, as **discussões técnicas** são 
 Conhecer Design Patterns é algo de extrema importância no desenvolvimento de qualquer software. A utilização desses padrões nos ajuda a desenvolver de forma mais rápida frente a desafios semelhantes, fornece uma linguagem comum durante a documentação e discussões técnicas além de nos auxiliar a organizar o código fonte do software que estamos desenvolvendo.
 
 Fonte: https://www.opus-software.com.br/design-patterns/
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
